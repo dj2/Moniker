@@ -1,0 +1,11 @@
+= Moniker
+A simple gem to build aliases for things.
+
+= Example
+require 'rubygems'
+require 'moniker'
+Moniker.name  # => running-dolphin
+
+= Contact
+If you've got any questions, comments or bugs, please let me know. You can
+contact me by email at dj2 at everburning dot com.
