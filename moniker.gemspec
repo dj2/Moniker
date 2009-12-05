@@ -3,7 +3,7 @@ Gem::Specification.new do |s|
   s.version = "0.0.1"
   s.authors = ["dan sinclair"]
   s.email = %q{dj2@everburning.com}
-  s.homepage = %q{http://http://github.com/dj2/moniker/}
+  s.homepage = %q{http://github.com/dj2/moniker/}
  
   s.summary = %q{Generate aliases for things}
   s.description = %q{Generate aliases for things}
